@@ -30,7 +30,8 @@ For cloning the repository from git bash,<br>
 for cloning the repository from github,<br>
 ***Click on 'Code' option, select 'Download Zip'***<br><br><br>
 After cloning the repository,<br>
-<ul>
+<ul> 
+  <li>Go to the folder 'LRU_PR_using_splaytrees'</li>
   <li>Double click on 'LRU_splaytrees.exe' to directly execute the code</li>
   <li>or click on 'LRU_splaytrees.c' to open and execute code from an editor </li>
  </ul>
